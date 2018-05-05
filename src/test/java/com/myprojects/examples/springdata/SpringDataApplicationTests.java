@@ -1,4 +1,4 @@
-package com.myprojects.examples.springboot;
+package com.myprojects.examples.springdata;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootParentApplicationTests {
+public class SpringDataApplicationTests {
 
 	@Test
 	public void contextLoads() {
